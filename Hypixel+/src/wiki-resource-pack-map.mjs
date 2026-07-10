@@ -4600,7 +4600,7 @@ export const resourcepack = new Folder({
 					"epoch_cake_orange": [ IMG`Latest Update Century Cake` ],
 					"epoch_cake_pink": [ IMG`Crab-Colored Century Cake` ],
 					"epoch_cake_purple": [ IMG`Streamer\'s Century Cake` ],
-					"epoch_cake_red": [ IMG`aPunch Century Cake` ],
+					"epoch_cake_red": [ IMG`Fruit Century Cake` ],
 					"epoch_cake_silver": [ IMG`Corpse-Flavored Century Cake` ],
 					"epoch_cake_white": [ IMG`Cloudy Century Cake` ],
 					"epoch_cake_yellow": [ IMG`Potato-Style Century Cake` ],
